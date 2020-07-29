@@ -13,6 +13,14 @@
 
 借鉴DailySchedule项目，对每一天的学习进行简单总结记录，在每一块内容完成后产出一篇知识总结。
 
+## 其他
+
+本项目在GitHub和gitee下都有，因为在GitHub的公式可能显示不正常，可移步到gitee地址查看。
+
+GitHub：https://github.com/chen070808/daily_record
+
+gitee：https://gitee.com/chen788/daily_record
+
 ## 导航
 
 [总结](总结) 
