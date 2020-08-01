@@ -53,11 +53,11 @@ $\sqrt{2}$
 
 使用
 
-![](http://latex.codecogs.com/gif.latex?
+![](http://latex.codecogs.com/gif.latex?写入公式
 
 ![](http://latex.codecogs.com/gif.latex?\sqrt{2})
 
-使用<img src="http://chart.googleapis.com/chart?cht=tx&chl= " style="border:none;">
+使用<img src="http://chart.googleapis.com/chart?cht=tx&chl= 写入公式" style="border:none;"
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= \sqrt{2}" style="border:none;">
 
@@ -114,4 +114,16 @@ double dist(double x,double y,double x1, double y1, double x2, double y2)
 ### 事件一
 
 计组看到了2.6，感觉其中的#写错了写成了非少一横，对比了下第五版，虽然更改了指令集之后内容差别也不是很大，有挺多图片文字都是一样的。吐槽一句，指令字段部分写的好像对不上，也可能是我理解错了意思。要加快速度了，似乎重点在机器指令和地址、寻址方式上（暂无实证）
+
+## 2020.8.01 周六
+
+### 事件一
+
+打了场gym，其中有道[Third-Party Software](https://codeforces.com/gym/101755/problem/C)，有个较为经典的题是，用最少的区间覆盖全部线段，解法很多，用排序之后贪心，也会有挺多的演化。一开始我以为是这样的，后来发现这个题很有趣是用最少的点覆盖全部线段，是找出最少的点，使得每条线段至少包含一个点。解决方法也是排序之后贪心。具体来说就是以右端点为第一优先排序，之后遍历，当新线段的左端点无法覆盖当前右端点时，把新线段的右端点放进来。
+
+### 事件二
+
+今天刚立下flag，八月每天写LeetCode的每日一题，LeetCode就给我来了个困难劝退[632  最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) ，然后说和[「76. 最小覆盖子串」](https://leetcode-cn.com/problems/minimum-window-substring/)思路类似，一看也是一道困难。
+
+思路就是滑动窗口用哈希表来维护序列，这篇题解对滑动窗口的的套路思考写的很清晰。[滑动窗口的套路：找到可行解，再优化可行解](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/solution/hua-dong-chuang-kou-de-tao-lu-zhao-dao-ke-xing-jie/)
 
