@@ -66,4 +66,14 @@ LeetCode每日一题，[337 打家劫舍 III](https://leetcode-cn.com/problems/h
 
 ### 事件一
 
-准备某答辩，没来得及学别的，有点鸽了的一天。
+准备某答辩，没来得及学别的，有点鸽了的一天。做了一版PPT
+
+## 2020.8.07 周五
+
+### 事件一
+
+LeetCode每日一题[100 相同的树](https://leetcode-cn.com/problems/same-tree) ，深度搜算遍历出树的结构，然后对比即可。
+
+### 事件二
+
+又改了一版答辩的PPT。
