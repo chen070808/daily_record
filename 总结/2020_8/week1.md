@@ -77,3 +77,13 @@ LeetCode每日一题[100 相同的树](https://leetcode-cn.com/problems/same-tre
 ### 事件二
 
 又改了一版答辩的PPT。
+
+## 2020.8.08 周六
+
+### 事件一
+
+LeetCode每日一题[99 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree) ，中序遍历，判断乱序的位置进行交换。有个人给了个很有趣的思路，获得中序遍历序列，排序，然后将值依次按照中序遍历放入树中。发现了个将遍历很丰富很棒的文章[二叉树的遍历](https://www.dinary.xin/archives/二叉树的遍历)
+
+### 事件二
+
+这一段有点累，可能是之前准备答辩准备的，这一段时间都有点浪费，学习了点商业计划书的书写。
