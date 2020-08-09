@@ -87,3 +87,13 @@ LeetCode每日一题[99 恢复二叉搜索树](https://leetcode-cn.com/problems/
 ### 事件二
 
 这一段有点累，可能是之前准备答辩准备的，这一段时间都有点浪费，学习了点商业计划书的书写。
+
+## 2020.8.09 周日
+
+### 事件一
+
+LeetCode每日一题[93 复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses) ，不生产题解只是题解的搬运工[『手画图解』DFS 回溯 细节](https://leetcode-cn.com/problems/restore-ip-addresses/solution/shou-hua-tu-jie-huan-yuan-dfs-hui-su-de-xi-jie-by-/)这个题解写的dfs较为清楚，且后面的链接挺好，[复原IP地址，近双100%，图文配合](https://leetcode-cn.com/problems/restore-ip-addresses/solution/fu-yuan-ipdi-zhi-jin-shuang-100tu-wen-pei-he-by-zu/)这个题解对题目理解很透彻。其实字符串匹配的算法很dfs算法，其匹配过程中的回溯，移动确实与dfs相同，这也就是字典树形成的合情合理。
+
+### 事件二
+
+看了两节唐叔长难句。
