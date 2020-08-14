@@ -38,3 +38,12 @@ LeetCode每日一题[696 计数二进制子串](https://leetcode-cn.com/problems
 
 因为一些问题，计组还是改成了上一版的了，明天加入有符号数运算功能。
 
+## 2020.8.14 周五
+
+### 事件一
+
+计组成功实现有符号数运算，简单修改了计组实验报告，明天增加溢出判断。
+
+### 事件二
+
+LeetCode每日一题，[20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) ，匹配括号问题，较为基础，用栈即可解决。
