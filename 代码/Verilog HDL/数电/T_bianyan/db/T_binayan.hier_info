@@ -1,0 +1,6 @@
+|T_binayan
+clk => Q~reg0.CLK
+T => Q~reg0.ENA
+Q << Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,9 @@
+module D_dianping(C,D,Q)
+	input C,D;
+	output Q;
+
+	always(C or D)
+		if(C==1'b1)
+		assign Q=D?1'b1:1'b0;
+
+endmodule 

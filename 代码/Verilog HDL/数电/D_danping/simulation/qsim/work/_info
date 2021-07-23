@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Digital/D_danping/simulation/qsim
+vD_dianping
+Z1 !s110 1574520702
+!i10b 1
+!s100 dCbcdKWoFXn2d`DImjE2h0
+IPR[?d?:mZaeY[;YfKJ@FU1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1574520701
+8D_dianping.vo
+FD_dianping.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1574520701.000000
+!s107 D_dianping.vo|
+!s90 -work|work|D_dianping.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@d_dianping
+vD_dianping_vlg_vec_tst
+R1
+!i10b 1
+!s100 8jFnajhIOMCKeSFI4zm>j3
+I3H`C5I>DTLTBQJzg8@f2E0
+R2
+R0
+w1574520699
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1574520702.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+R5
+n@d_dianping_vlg_vec_tst

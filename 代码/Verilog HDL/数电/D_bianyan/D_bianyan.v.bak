@@ -1,0 +1,8 @@
+module D_bianyan(clk,D,Q)
+	input clk,D;
+	output Q;
+	reg Q;
+	always @(posedge clk)
+	Q<=D?1'b1:1'b0;
+
+endmodule 

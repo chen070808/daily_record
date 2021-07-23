@@ -1,0 +1,31 @@
+# do T_dianping.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:33:05 on Nov 24,2019
+# vlog -work work T_dianping.vo 
+# -- Compiling module T_dianping
+# 
+# Top level modules:
+# 	T_dianping
+# End time: 20:33:05 on Nov 24,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:33:05 on Nov 24,2019
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module T_dianping_vlg_vec_tst
+# 
+# Top level modules:
+# 	T_dianping_vlg_vec_tst
+# End time: 20:33:05 on Nov 24,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.T_dianping_vlg_vec_tst 
+# Start time: 20:33:05 on Nov 24,2019
+# Loading work.T_dianping_vlg_vec_tst
+# Loading work.T_dianping
+# Loading cyclonev_ver.cyclonev_io_obuf
+# Loading cyclonev_ver.cyclonev_io_ibuf
+# Loading cyclonev_ver.cyclonev_lcell_comb
+# after#25
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 10 ns.
+# End time: 20:33:06 on Nov 24,2019, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0

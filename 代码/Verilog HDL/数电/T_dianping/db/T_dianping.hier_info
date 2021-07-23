@@ -1,0 +1,8 @@
+|T_dianping
+C => always0.IN0
+T => always0.IN1
+Q <= Q$latch.DB_MAX_OUTPUT_PORT_TYPE
+rst => Q.OUTPUTSELECT
+rst => Q.IN1
+
+

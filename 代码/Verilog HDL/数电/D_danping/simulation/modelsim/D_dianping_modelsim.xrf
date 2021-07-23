@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, D:/Digital/D_danping/D_dianping.v
+source_file = 1, D:/Digital/D_danping/Waveform.vwf
+source_file = 1, D:/Digital/D_danping/db/D_dianping.cbx.xml
+design_name = D_dianping
+instance = comp, \Q~output , Q~output, D_dianping, 1
+instance = comp, \D~input , D~input, D_dianping, 1
+instance = comp, \C~input , C~input, D_dianping, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, D_dianping, 1

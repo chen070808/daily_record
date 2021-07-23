@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital/jk_dianping
+vD_bianyan
+!s110 1574527761
+!i10b 1
+!s100 [:d3UTkYE[Nggj8nLXPE82
+IAgFbz^nzl=Nc@QV=oaX1d1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/Digital/D_danping
+w1574526981
+8D:/Digital/D_bianyan/D_bianyan.v
+FD:/Digital/D_bianyan/D_bianyan.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1574527761.000000
+!s107 D:/Digital/D_bianyan/D_bianyan.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/D_bianyan/D_bianyan.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@d_bianyan
+vD_bianyan_vlg_vec_tst
+!s110 1574528068
+!i10b 1
+!s100 8aC[7Jg=b9I0JMcWGhZ_63
+IX[bOOCMHhY[5zXBQ8a:Xg2
+R0
+R1
+w1574527224
+8D:/Digital/D_bianyan/simulation/modelsim/Waveform.vwf.vt
+FD:/Digital/D_bianyan/simulation/modelsim/Waveform.vwf.vt
+Z5 L0 29
+R2
+r1
+!s85 0
+31
+!s108 1574528068.000000
+!s107 D:/Digital/D_bianyan/simulation/modelsim/Waveform.vwf.vt|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/D_bianyan/simulation/modelsim/Waveform.vwf.vt|
+!i113 1
+R3
+R4
+n@d_bianyan_vlg_vec_tst
+vD_dianping
+!s110 1574523147
+!i10b 1
+!s100 M>D;38d3`D3c_K3]=9kOa2
+I3<<73;^2lIR6]7c2FSFNg3
+R0
+R1
+w1574517739
+8D:/Digital/D_danping/D_dianping.v
+FD:/Digital/D_danping/D_dianping.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1574523147.000000
+!s107 D:/Digital/D_danping/D_dianping.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/D_danping/D_dianping.v|
+!i113 1
+R3
+R4
+n@d_dianping
+vD_dianping_vlg_tst
+!s110 1574527272
+!i10b 1
+!s100 nMz0InbGLL5=:O<Sz9;9@0
+IgReDE2aN2IUk;modV06d;3
+R0
+R1
+w1574518742
+8D:/Digital/D_danping/simulation/modelsim/D_dianping.vt
+FD:/Digital/D_danping/simulation/modelsim/D_dianping.vt
+L0 28
+R2
+r1
+!s85 0
+31
+!s108 1574527272.000000
+!s107 D:/Digital/D_danping/simulation/modelsim/D_dianping.vt|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/D_danping/simulation/modelsim/D_dianping.vt|
+!i113 1
+R3
+R4
+n@d_dianping_vlg_tst
+vD_dianping_vlg_vec_tst
+!s110 1574523148
+!i10b 1
+!s100 0B;@j[1O6A7CAMjoPc7;72
+IbkjZT=`4da6m5L?8eDl;<3
+R0
+R1
+w1574523066
+8D:/Digital/D_danping/simulation/modelsim/Waveform.vwf.vt
+FD:/Digital/D_danping/simulation/modelsim/Waveform.vwf.vt
+R5
+R2
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital/D_danping/simulation/modelsim/Waveform.vwf.vt|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/D_danping/simulation/modelsim/Waveform.vwf.vt|
+!i113 1
+R3
+R4
+n@d_dianping_vlg_vec_tst
+vJK_dianping
+Z7 !s110 1574574140
+!i10b 1
+!s100 oNEIM`Cmn2P1_?jghhR343
+I=kh5?PCNFkiZcTn9Q1jUi1
+R0
+R1
+w1574573509
+8D:/Digital/JK_dianping/JK_dianping.v
+FD:/Digital/JK_dianping/JK_dianping.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z8 !s108 1574574140.000000
+!s107 D:/Digital/JK_dianping/JK_dianping.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/JK_dianping/JK_dianping.v|
+!i113 1
+R3
+R4
+n@j@k_dianping
+vJK_dianping_vlg_vec_tst
+R7
+!i10b 1
+!s100 9V>OXZWO8LbR;C@KZ6K_[2
+Ih8SHY:_V2^EWNa9YFdoZ01
+R0
+R1
+w1574573912
+8D:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt
+FD:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt
+R5
+R2
+r1
+!s85 0
+31
+R8
+!s107 D:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt|
+!i113 1
+R3
+R4
+n@j@k_dianping_vlg_vec_tst

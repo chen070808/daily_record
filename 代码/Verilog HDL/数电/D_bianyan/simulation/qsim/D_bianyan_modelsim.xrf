@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, D:/Digital/D_bianyan/D_bianyan.v
+source_file = 1, D:/Digital/D_bianyan/db/D_bianyan.cbx.xml
+design_name = D_bianyan
+instance = comp, \Q~output , Q~output, D_bianyan, 1
+instance = comp, \clk~input , clk~input, D_bianyan, 1
+instance = comp, \D~input , D~input, D_bianyan, 1
+instance = comp, \Q~reg0feeder , Q~reg0feeder, D_bianyan, 1
+instance = comp, \Q~reg0 , Q~reg0, D_bianyan, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, D_bianyan, 1

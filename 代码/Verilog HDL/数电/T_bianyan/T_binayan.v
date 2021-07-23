@@ -1,0 +1,10 @@
+module T_binayan(clk,T,Q);
+input clk,T;
+output Q;
+reg Q;
+
+always @(posedge clk)
+	if(T==1'b1)
+	Q<=~Q;
+	else Q<=Q;
+endmodule

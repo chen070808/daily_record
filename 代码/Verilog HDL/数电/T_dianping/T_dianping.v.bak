@@ -1,0 +1,12 @@
+module T_dianping(C,T,Q);
+input C,T;
+output Q;
+reg Q;
+
+always @(*)
+	if(T==1'b1)
+	Q=~Q;
+	else Q=Q;
+
+
+endmodule 

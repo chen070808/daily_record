@@ -1,0 +1,20 @@
+|Block1
+pin_name3 <= D_bianyan:inst.Q
+pin_name1 => D_bianyan:inst.clk
+pin_name1 => D_bianyan:inst1.clk
+pin_name2 => D_bianyan:inst.D
+pin_name4 => D_bianyan:inst1.D
+
+
+|Block1|D_bianyan:inst
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|D_bianyan:inst1
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

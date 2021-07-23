@@ -1,0 +1,15 @@
+D:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt {1 {vlog -work work -stats=none D:/Digital/JK_dianping/simulation/modelsim/Waveform.vwf.vt
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JK_dianping_vlg_vec_tst
+
+Top level modules:
+	JK_dianping_vlg_vec_tst
+
+} {} {}} D:/Digital/JK_dianping/JK_dianping.v {1 {vlog -work work -stats=none D:/Digital/JK_dianping/JK_dianping.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module JK_dianping
+
+Top level modules:
+	JK_dianping
+
+} {} {}}
