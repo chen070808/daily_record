@@ -1,0 +1,15 @@
+module JK_dianping(C,J,K,Q);
+input C,J,K;
+output Q;
+reg Q;
+
+always @(*)
+		case({C,J,K})
+		3'b100:Q=Q;
+		3'b101:Q=1'b0;
+		3'b110:Q=1b1;
+		3'b111:Q=~Q;
+		default:Q=Q;
+		endcase
+		
+endmodule 

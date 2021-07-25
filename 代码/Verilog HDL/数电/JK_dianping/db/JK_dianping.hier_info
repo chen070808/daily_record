@@ -1,0 +1,10 @@
+|JK_dianping
+C => Mux0.IN8
+C => Mux1.IN8
+J => Mux0.IN9
+J => Mux1.IN9
+K => Mux0.IN10
+K => Mux1.IN10
+Q <= Q$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+

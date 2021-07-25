@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, D:/Digital/JK_dianping/JK_dianping.v
+source_file = 1, D:/Digital/JK_dianping/db/JK_dianping.cbx.xml
+design_name = JK_dianping
+instance = comp, \Q~output , Q~output, JK_dianping, 1
+instance = comp, \J~input , J~input, JK_dianping, 1
+instance = comp, \K~input , K~input, JK_dianping, 1
+instance = comp, \C~input , C~input, JK_dianping, 1
+instance = comp, \Mux1~0 , Mux1~0, JK_dianping, 1
+instance = comp, \Mux0~0 , Mux0~0, JK_dianping, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, JK_dianping, 1

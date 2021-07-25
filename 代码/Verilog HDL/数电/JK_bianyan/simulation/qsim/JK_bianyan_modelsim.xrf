@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, D:/Digital/JK_bianyan/JK_bianyan.v
+source_file = 1, D:/Digital/JK_bianyan/Waveform.vwf
+source_file = 1, D:/Digital/JK_bianyan/db/JK_bianyan.cbx.xml
+design_name = JK_bianyan
+instance = comp, \Q~output , Q~output, JK_bianyan, 1
+instance = comp, \clk~input , clk~input, JK_bianyan, 1
+instance = comp, \K~input , K~input, JK_bianyan, 1
+instance = comp, \J~input , J~input, JK_bianyan, 1
+instance = comp, \Mux0~0 , Mux0~0, JK_bianyan, 1
+instance = comp, \Q~reg0feeder , Q~reg0feeder, JK_bianyan, 1
+instance = comp, \Q~reg0 , Q~reg0, JK_bianyan, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, JK_bianyan, 1
